@@ -13066,7 +13066,7 @@
 		)
 		(uuid "ca8cc06e-1748-47ba-b5d2-eeead4fca054")
 	)
-	(text "--Battery Input Voltage Range--\nMain: 3.3V - 15V\nPyro: 3.0V - 15V"
+	(text "--Battery Input Voltage Range--\nMain: 3.3V - 15V\nPyro: 3.0V - 13.5V"
 		(exclude_from_sim no)
 		(at 205.105 281.305 0)
 		(effects
@@ -14839,7 +14839,7 @@
 	)
 	(hierarchical_label "SPI_MISO"
 		(shape input)
-		(at 119.38 52.07 180)
+		(at 119.38 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15595,7 +15595,7 @@
 	)
 	(hierarchical_label "SPI_MOSI"
 		(shape output)
-		(at 119.38 54.61 180)
+		(at 119.38 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
